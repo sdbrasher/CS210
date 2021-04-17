@@ -14,5 +14,6 @@
   
 **What skills from this project will be particularly transferable to other projects or course work?**
   _-Debugging skills will be incredibly useful in other projects. Though it isn't my first exposure, I do like the concept of encapsulation for both readability and security._  
+  
 **How did you make this program maintainable, readable, and adaptable?**
   _-My current strategy is to leave "first draft" comments behind as I code a rough draft. As I finalize the program, I expand out my comments to give more detail on related material._
